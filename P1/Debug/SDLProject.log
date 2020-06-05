@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\me\Documents\cs3113-projectos\P1\main.cpp(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ShaderProgram.cpp
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\me\Documents\cs3113-projectos\P1\Debug\SDLProject.exe
