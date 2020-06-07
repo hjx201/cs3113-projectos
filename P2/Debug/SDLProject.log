@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\me\Documents\cs3113-projectos\P2\main.cpp(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\me\Documents\cs3113-projectos\P2\main.cpp(284,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SDLProject.vcxproj -> C:\Users\me\Documents\cs3113-projectos\P2\Debug\SDLProject.exe
