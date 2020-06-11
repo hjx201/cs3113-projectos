@@ -1,0 +1,6 @@
+C:\Users\me\Documents\cs3113\Templates\SDLProject\Debug\SDLProject.exe
+C:\Users\me\Documents\cs3113\Templates\SDLProject\Debug\SDLProject.pdb
+C:\Users\me\Documents\cs3113\Templates\Triamgle\Debug\SDLProject.exe
+C:\Users\me\Documents\cs3113\Templates\Triamgle\Debug\SDLProject.pdb
+C:\Users\me\Documents\cs3113-projectos\P3\Debug\SDLProject.exe
+C:\Users\me\Documents\cs3113-projectos\P3\Debug\SDLProject.pdb
