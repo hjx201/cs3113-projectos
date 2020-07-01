@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(233,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(246,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(247,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(258,33): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P4\main.cpp(259,34): warning C4305: '=': truncation from 'double' to 'float'
+  SDLProject.vcxproj -> C:\Users\me\Documents\cs3113-projectos\P4\Debug\SDLProject.exe

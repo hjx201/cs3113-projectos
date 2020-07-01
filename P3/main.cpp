@@ -140,7 +140,7 @@ void randomizeBalloon() {
     }
 
     //state.player->alivetexture = balloonskins[2 * random];
-    //state.player->deadtexture = balloonskins[random + 1];
+    //state.player->deadtexture = balloonskins[2 * random + 1];
 }
 
 
