@@ -309,8 +309,6 @@ void Entity::CheckColEnemies(Entity* enemies, int enemycount) {
                 collidedBottomE = true;
             }
 
-
-
             if (collidedBottomE) {
                 curren->isActive = false;
             }
