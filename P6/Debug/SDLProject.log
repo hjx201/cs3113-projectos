@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\me\Documents\cs3113-projectos\P6\main.cpp(194,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SDLProject.vcxproj -> C:\Users\me\Documents\cs3113-projectos\P6\Debug\SDLProject.exe
