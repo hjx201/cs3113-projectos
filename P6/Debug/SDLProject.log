@@ -1,3 +1,18 @@
-﻿  main.cpp
-C:\Users\me\Documents\cs3113-projectos\P6\main.cpp(194,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  Game.cpp
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(36,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(37,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(38,47): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(39,37): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(40,45): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(41,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(42,45): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(43,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(111,39): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(112,38): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(139,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(145,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(151,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(157,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(322,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\me\Documents\cs3113-projectos\P6\Game.cpp(334,45): warning C4305: '=': truncation from 'double' to 'float'
   SDLProject.vcxproj -> C:\Users\me\Documents\cs3113-projectos\P6\Debug\SDLProject.exe

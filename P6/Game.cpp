@@ -294,12 +294,12 @@ int Game::rearrange(Entity** objects, int activeobjCount) {
         activeobjCount--;
         deadenemies++;
         if (activeobjCount == 0) { 
-            enemiesRemaining -= deadenemies;
+            if (objects[0]->entityType == ENEMY) enemiesRemaining -= deadenemies;
             return 0;
         }
     } //trim array so last element is active
 
-    for (int i = 0; i < activeobjCount; i++) {
+    for (int i = 0; i < activeobjCount-1; i++) {
         if (!objects[i]->isActive) {
             temp = objects[i];
             objects[i] = objects[activeobjCount - 1];//swap with last active object in the array
