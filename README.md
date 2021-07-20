@@ -6,9 +6,9 @@ Source code for most projects can be found in main.cpp.
 
 All projects were made using OpenGL and SDL libraries in C++.
 
-P1: making objects move
-P2: Pong
-P3: Lunar Lander
-P4: Rise of the AI
-P5: Platformer
-P6: Free project (created a clone of the game Asteroids)
+# P1: making objects move
+# P2: Pong
+# P3: Lunar Lander
+# P4: Rise of the AI
+# P5: Platformer
+# P6: Free project (created a clone of the game Asteroids)
