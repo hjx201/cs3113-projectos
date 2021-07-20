@@ -11,4 +11,4 @@ P2: Pong \
 P3: Lunar Lander \
 P4: Rise of the AI \
 P5: Platformer \
-P6: Free project (created a clone of the game Asteroids) \
+P6: Free project (created a clone of the game Asteroids) 
